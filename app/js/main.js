@@ -1,0 +1,1 @@
+$(document).ready(function(){$(function(){$.pixlayout({clip:!0,src:"img/template.png",show:!0,center:!0,top:0,left:0,pervious:!1})})});
