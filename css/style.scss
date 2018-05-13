@@ -21,6 +21,33 @@ header{
 	height: 180px;
 	border: 1px solid red;
 	margin-left: 0;
+	
+	.header-nav{
+		list-style-type: none;
+		border:1px solid yellow;
+		height: 40px;
+		line-height: 40px;
+		 
+		
+		li{
+			display: inline;
+			
+		}
+		
+	}
+		
+		.header-reg{
+			list-style-type: none;
+			height: 40px;
+			line-height: 40px;
+			border:1px solid green;
+			
+			li{
+				display: inline;
+				
+			}
+		}		
+	
 }
 
 
