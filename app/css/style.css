@@ -31,6 +31,14 @@ header {
     border: 1px solid green; }
     header .header-reg li {
       display: inline; }
+  header .logo {
+    float: left; }
+  header .logo_link {
+    font-size: 26px;
+    color: #8DB946; }
+  header .contacts {
+    text-align: right;
+    font-size: 16px; }
 
 /*-----------------HEADER-------------------------------------*/
 /*-----------------MAIN SECTION-------------------------------*/
@@ -56,8 +64,13 @@ header {
     border: 1px solid  #E0E0E0; }
   #main .description {
     width: 208px; }
+    #main .description .price_dis {
+      position: absolute;
+      right: 30%; }
   #main #new_products {
     margin-top: 30px; }
+  #main .through {
+    text-decoration: line-through; }
 
 /*-----------------MAIN SECTION-------------------------------*/
 /*-----------------FOOTER-------------------------------------*/
