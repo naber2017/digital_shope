@@ -39,6 +39,16 @@ header {
   height: auto;
   border: 1px solid red;
   padding-bottom: 100px; }
+  #main .brands {
+    list-style-type: none; }
+    #main .brands li {
+      display: inline; }
+  #main .currency {
+    list-style-type: none; }
+    #main .currency li {
+      display: inline; }
+  #main #news {
+    list-style-type: none; }
 
 /*-----------------MAIN SECTION-------------------------------*/
 /*-----------------FOOTER-------------------------------------*/
