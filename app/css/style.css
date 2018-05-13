@@ -49,6 +49,15 @@ header {
       display: inline; }
   #main #news {
     list-style-type: none; }
+  #main .phone {
+    width: 208px;
+    height: 208px;
+    background-color: #FFFFFF;
+    border: 1px solid  #E0E0E0; }
+  #main .description {
+    width: 208px; }
+  #main #new_products {
+    margin-top: 30px; }
 
 /*-----------------MAIN SECTION-------------------------------*/
 /*-----------------FOOTER-------------------------------------*/
