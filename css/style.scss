@@ -46,7 +46,22 @@ header{
 				display: inline;
 				
 			}
-		}		
+		}	
+	
+	.logo{
+		float: left;
+	}
+	
+	.logo_link{
+		font-size: 26px;
+		color:#8DB946;
+		
+	}
+	
+	.contacts{
+		text-align: right;
+		font-size: 16px;
+	}
 	
 }
 
@@ -62,6 +77,61 @@ header{
 	height: auto;
 	border:1px solid red;
 	padding-bottom: 100px;
+	
+	.brands{
+		list-style-type: none;
+		
+		li{
+			display: inline;
+			
+		}
+		
+	
+	}
+	
+	.currency{
+		list-style-type: none;
+		
+		li{
+			display: inline;
+			
+		}
+		
+		
+	}
+	
+	#news{
+		list-style-type: none;
+		
+		li{
+			
+		}
+	}
+	
+	
+	.phone{
+		width: 208px;
+		height: 208px;
+		background-color: #FFFFFF;
+		border: 1px solid  #E0E0E0;
+	}
+	
+	.description{
+		width: 208px;
+		
+		.price_dis{
+			position: absolute;
+			right: 30%;
+		}
+		 
+	}
+	
+	#new_products{
+		margin-top: 30px;
+	}
+	.through{
+		text-decoration: line-through;
+	}
 }
 
 /*-----------------MAIN SECTION-------------------------------*/
